@@ -24,10 +24,8 @@ Find the most likely sequence of hidden states by selecting the hidden state wit
 
 ##  Program:
 # Developed by:
-```
-name: kavya k
-reg no 212222230065
-```
+Developed By: kavya k
+reg no: 212222230065
 # Import the necessary packages
 ```python
 import numpy as np
